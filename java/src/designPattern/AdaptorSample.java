@@ -1,4 +1,4 @@
-package DesignPattern;
+package designPattern;
 
 import java.util.ArrayList;
 import java.util.Enumeration;
